@@ -1,4 +1,4 @@
 Testing 2
 
 
-![Screenshot](AzurePass.png)
+![Screenshot](media/AzurePass.png)
